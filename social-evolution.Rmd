@@ -1,0 +1,8 @@
+### Sumner, Bell and Taylor (2018) A molecular concept of caste in insect societies
+- Caste is well defined in social groups differentiated by morphology; but less so in more plastic societies (simple eusocial societies) 
+- Literature has many examples and many definitions based on function, activity duration and behaviour (Table 1)
+- Recent debate on eusocial species = superorganisms (Boomsma and Gawne 2017, gives a historical review of the concepts from Wilson and onwards, focuses on the point of non-return/morphological castes)
+- defining castes is a complicated business (cooperative breeders, variable role during life, variable expression depending on climate)
+- the definition needs clearer description, including social parameters, ecological varables and molecular processes (Figure 1: physiology, morhology, behaviour, gene expression, gene regulation, functionality)
+- gene expression difference between castes is stronger in more defined societies
+- there are cases of castes differentiation when analysing regulatory mechanisms (epigenetic mechanisms of MicroRNAs; methylation/addition of methyltransferases associated with variaiton of gene expression, chromatin modification associated with histone port-translational modifications)
