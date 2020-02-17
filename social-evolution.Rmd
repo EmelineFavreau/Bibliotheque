@@ -1,3 +1,9 @@
+### Chandra, Fetter-Pruneda, Oxley, Ritger, McKenzie, Libbrecht, Kronauer (2018) Social regulation of insulin signaling and the evolution of eusociality in ants
+- The underlying question is: what is regulating social organisation in the ants.
+- Methods: 7 ant species brain comparative transcriptomics; focus on single-copy ortholgous genes; relaxed statistical stringency in association tests. Checking result using hormone antibody staining, colony alterning experiments (removing larvae, measuring brain gene expression), injecting hormone in ant (measuring reproduction capacity),
+- Findings: Insulin-like peptide 2 is always upregulated in reproductives (this hormone is associated with reproduction and food); colonies without larvae see increase of gene expression of ilp2 in brain; injected hormones increase capability to reproduce; intercastes have more hormone than workers.
+- critical piece: https://science.sciencemag.org/content/re-evolution-eusociality-single-gene-ilp2
+
 ### Sumner, Bell and Taylor (2018) A molecular concept of caste in insect societies
 - Caste is well defined in social groups differentiated by morphology; but less so in more plastic societies (simple eusocial societies) 
 - Literature has many examples and many definitions based on function, activity duration and behaviour (Table 1)
