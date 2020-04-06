@@ -1,6 +1,6 @@
 ## Vespidae
 
-### Polistes canadensis
+### *Polistes canadensis*
 Comparison with Dinoponera ant, also a simple society. Slight difference between phenotype at the level of transcription network. 
 
 **Methylation** no difference between phenotypes
@@ -11,7 +11,7 @@ Comparison with Dinoponera ant, also a simple society. Slight difference between
 
 **Reference**: **Patalano**, S., Vlasova, A., Wyatt, C., Ewels, P., Camara, F., Ferreira, P.G., Asher, C.L., Jurkowski, T.P., Segonds-Pichon, A., Bachman, M. and González-Navarrete, I., **2015**. Molecular signatures of plastic phenotypes in two eusocial insect species with simple societies. Proceedings of the National Academy of Sciences, 112(45), pp.13970-13975.
 
-### Polistes dominula
+### *Polistes dominula*
 Primitively eusocial wasp
 
 **Methylation** patterns are surprisingly low, when compared with other social species with caste differentiation. One main gene associated with methylation (Dnmt3) is lost. Which mechanisms underlie caste differentiation, if not methylation?
