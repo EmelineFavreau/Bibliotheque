@@ -22,3 +22,7 @@ Honey bee has so many "fascinating features" and is important for pollination of
 **Methylation**: two DNMT family genes specific to bee (ie not found in Drosophila)  
 **Transcriptome**: caste-specific microRNAs (gene regulation)  
 **Reference**: **Honeybee Genome Sequencing Consortium**, **2006**. Insights into social insects from the genome of the honeybee Apis mellifera. Nature, 443(7114), p.931.
+
+
+## Genome sizes
+**Reference**: **Ardila‐Garcia**, A.M., Umphrey, G.J. and Gregory, T.R., **2010**. An expansion of the genome size dataset for the insect order Hymenoptera, with a first test of parasitism and eusociality as possible constraints. Insect Molecular Biology, 19(3), pp.337-346.
