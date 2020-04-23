@@ -12,3 +12,7 @@
 - the definition needs clearer description, including social parameters, ecological varables and molecular processes (Figure 1: physiology, morhology, behaviour, gene expression, gene regulation, functionality)
 - gene expression difference between castes is stronger in more defined societies
 - there are cases of castes differentiation when analysing regulatory mechanisms (epigenetic mechanisms of MicroRNAs; methylation/addition of methyltransferases associated with variaiton of gene expression, chromatin modification associated with histone port-translational modifications)
+
+
+## Phylogeny
+Johnson et al (2013) Phylogenomics Resolves Evolutionary Relationships among Ants, Bees, and Wasps. Current Biology. https://doi.org/10.1016/j.cub.2013.08.050
