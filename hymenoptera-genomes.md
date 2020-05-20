@@ -14,6 +14,14 @@ Primitively eusocial wasp
 **Transcriptome**: majority of genes are worker-biased  
 **Reference**: **Standage**, D.S., Berens, A.J., Glastad, K.M., Severin, A.J., Brendel, V.P. and Toth, A.L., **2016**. Genome, transcriptome and methylome sequencing of a primitively eusocial wasp reveal a greatly reduced DNA methylation system in a social insect. Molecular ecology, 25(8), pp.1769-1784.  
 
+
+### *Polistes fuscatus, P. metricus, P. dorsalis*
+Focusing on recent selective sweeps associated with cognition (visual recognition)  
+**Genome** fuscatus N50: 9.11 Mb; fuscatus BUSCO (eukaryotes): 296/303; metricus N50: 4.63 Mb; metricus BUSCO (eukaryotes): 297/303; dorsalis N50: 5.37 Mb; dorsalis BUSCO (eukaryotes): 297/303.   
+**Reference**: **Miller, S.E.**, Legan, A.W., Henshaw, M.T., Ostevik, K.L., Samuk, K., Uy, F.M. and Sheehan, M.J., **2020**. Evolutionary dynamics of recent selection on cognitive abilities. Proceedings of the National Academy of Sciences, 117(6), pp.3045-3052. 
+
+
+
 ## Apidae
 
 ### *Apis mellifera*
