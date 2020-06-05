@@ -31,6 +31,13 @@ Honey bee has so many "fascinating features" and is important for pollination of
 **Transcriptome**: caste-specific microRNAs (gene regulation)  
 **Reference**: **Honeybee Genome Sequencing Consortium**, **2006**. Insights into social insects from the genome of the honeybee Apis mellifera. Nature, 443(7114), p.931.
 
+### *Frieseomelitta varia*
+Increasing the Apidae clade genomic diversity with a stingless bee with a completely sterile worker caste.   
+**Genome**: high number of repetitive regions. scaffold N50: 470,005bp. 2173 scaffolds. BUSCOs present 96.6% of Hymenoptera 
+**Mitochondrial genome**: gene order rearrangement compared to other Melipona sp.  
+**Transcriptome**: from previous paper  
+**Reference**: **de Paula Freitas**, F.C., Lourenço, A.P., Nunes, F.M.F. et al. The nuclear and mitochondrial genomes of Frieseomelitta varia – a highly eusocial stingless bee (Meliponini) with a permanently sterile worker caste. BMC Genomics 21, 386 (**2020**). https://doi.org/10.1186/s12864-020-06784-8
+
 
 ## Genome sizes
 **Reference**: **Ardila‐Garcia**, A.M., Umphrey, G.J. and Gregory, T.R., **2010**. An expansion of the genome size dataset for the insect order Hymenoptera, with a first test of parasitism and eusociality as possible constraints. Insect Molecular Biology, 19(3), pp.337-346.
