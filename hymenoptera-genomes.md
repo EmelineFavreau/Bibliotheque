@@ -33,8 +33,8 @@ Honey bee has so many "fascinating features" and is important for pollination of
 
 ### *Frieseomelitta varia*
 Increasing the Apidae clade genomic diversity with a stingless bee with a completely sterile worker caste.   
-**Genome**: high number of repetitive regions. scaffold N50: 470,005bp. 2173 scaffolds. BUSCOs present 96.6% of Hymenoptera 
-**Mitochondrial genome**: gene order rearrangement compared to other Melipona sp.  
+**Genome**: high number of repetitive regions. scaffold N50: 470,005bp. 2173 scaffolds. BUSCOs present 96.6% of Hymenoptera  
+**Mitochondrial genome**: gene order rearrangement compared to other Melipona sp.    
 **Transcriptome**: from previous paper  
 **Reference**: **de Paula Freitas**, F.C., Lourenço, A.P., Nunes, F.M.F. et al. The nuclear and mitochondrial genomes of Frieseomelitta varia – a highly eusocial stingless bee (Meliponini) with a permanently sterile worker caste. BMC Genomics 21, 386 (**2020**). https://doi.org/10.1186/s12864-020-06784-8
 
