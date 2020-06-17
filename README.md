@@ -3,7 +3,7 @@ Notes from reading papers
 
 ## Journals:
 [Am Nat](https://www.journals.uchicago.edu/toc/an/current)  
-Bioinformatics  
+[Bioinformatics](https://academic.oup.com/bioinformatics/issue) 
 Current Biology  
 eLife  
 Evolution  
