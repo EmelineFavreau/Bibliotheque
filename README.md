@@ -4,7 +4,7 @@ Notes from reading papers
 ## Journals:
 [Am Nat](https://www.journals.uchicago.edu/toc/an/current)  
 [Bioinformatics](https://academic.oup.com/bioinformatics/issue)  
-Current Biology  
+[Current Biology](https://www.cell.com/current-biology/current)  
 eLife  
 Evolution  
 GBE  
