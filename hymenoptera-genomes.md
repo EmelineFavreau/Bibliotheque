@@ -41,3 +41,6 @@ Increasing the Apidae clade genomic diversity with a stingless bee with a comple
 
 ## Genome sizes
 **Reference**: **Ardila‐Garcia**, A.M., Umphrey, G.J. and Gregory, T.R., **2010**. An expansion of the genome size dataset for the insect order Hymenoptera, with a first test of parasitism and eusociality as possible constraints. Insect Molecular Biology, 19(3), pp.337-346.
+
+## Phylogeny
+https://www.sciencedirect.com/science/article/pii/S0960982217300593
