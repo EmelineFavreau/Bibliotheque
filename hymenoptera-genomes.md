@@ -20,6 +20,10 @@ Focusing on recent selective sweeps associated with cognition (visual recognitio
 **Genome** fuscatus N50: 9.11 Mb; fuscatus BUSCO (eukaryotes): 296/303; metricus N50: 4.63 Mb; metricus BUSCO (eukaryotes): 297/303; dorsalis N50: 5.37 Mb; dorsalis BUSCO (eukaryotes): 297/303.   
 **Reference**: **Miller, S.E.**, Legan, A.W., Henshaw, M.T., Ostevik, K.L., Samuk, K., Uy, F.M. and Sheehan, M.J., **2020**. Evolutionary dynamics of recent selection on cognitive abilities. Proceedings of the National Academy of Sciences, 117(6), pp.3045-3052. 
 
+## *Vespula vulgaris, germanica, pensylvanica*  
+**Genome** "each contain 176-179 Mb of total sequence assembled into 25 scaffolds, with 10-200 unanchored scaffolds, and 16,566-18,948 genes"   
+**Reference**: Thomas W. R. **Harrop**, Joseph Guhlin, Gemma M. McLaughlin, Elizabeth Permina, Peter Stockwell, Joshua Gilligan, Marissa F. Le Lec, Monica A. M. Gruber, Oliver Quinn, Mackenzie Lovegrove, Elizabeth J. Duncan, Emily J. Remnant, Jens Van Eeckhoven, Brittany Graham, Rosemary A. Knapp, Kyle W. Langford, Zev Kronenberg, Maximilian O. Press, Stephen M. Eacker, Erin E. Wilson-Rankin, Jessica Purcell, Phillip J. Lester and Peter K. Dearden
+G3: Genes, Genomes, Genetics Early online August 28, **2020**; https://doi.org/10.1534/g3.120.401579 
 
 
 ## Apidae
