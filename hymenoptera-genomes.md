@@ -42,6 +42,10 @@ Increasing the Apidae clade genomic diversity with a stingless bee with a comple
 **Transcriptome**: from previous paper  
 **Reference**: **de Paula Freitas**, F.C., Lourenço, A.P., Nunes, F.M.F. et al. The nuclear and mitochondrial genomes of Frieseomelitta varia – a highly eusocial stingless bee (Meliponini) with a permanently sterile worker caste. BMC Genomics 21, 386 (**2020**). https://doi.org/10.1186/s12864-020-06784-8
 
+## Sawflies
+Small immune gene repertoire  
+Oeyen, J.P., Baa-Puyoulet, P., Benoit, J.B., Beukeboom, L.W., Bornberg-Bauer, E., Buttstedt, A., Calevro, F., Cash, E.I., Chao, H., Charles, H. and Chen, M.J.M., 2020. Sawfly genomes reveal evolutionary acquisitions that fostered the mega-radiation of parasitoid and eusocial Hymenoptera. Genome Biology and Evolution.
+
 
 ## Genome sizes
 **Reference**: **Ardila‐Garcia**, A.M., Umphrey, G.J. and Gregory, T.R., **2010**. An expansion of the genome size dataset for the insect order Hymenoptera, with a first test of parasitism and eusociality as possible constraints. Insect Molecular Biology, 19(3), pp.337-346.
