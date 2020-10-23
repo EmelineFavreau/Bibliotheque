@@ -7,7 +7,7 @@ Notes from reading papers
 [Current Biology](https://www.cell.com/current-biology/current)  
 [eLife](https://elifesciences.org/)  
 [Evolution](https://onlinelibrary.wiley.com/toc/15585646/current)  
-GBE  
+[GBE](https://academic.oup.com/gbe/issue)  
 Genome Biol  
 Genome Res  
 Heredity  
