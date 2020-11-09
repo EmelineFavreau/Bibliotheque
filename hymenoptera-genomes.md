@@ -55,3 +55,7 @@ Oeyen, J.P., Baa-Puyoulet, P., Benoit, J.B., Beukeboom, L.W., Bornberg-Bauer, E.
 
 ## Phylogeny
 https://www.sciencedirect.com/science/article/pii/S0960982217300593
+
+Bank, Sarah, Manuela Sann, Christoph Mayer, Karen Meusemann, Alexander Donath, Lars Podsiadlowski, Alexey Kozlov, Malte Petersen, Lars Krogmann, Rudolf Meier, Paolo Rosa, Thomas Schmitt, Mareike Wurdack, Shanlin Liu, Xin Zhou, Bernhard Misof, Ralph S. Peters, and Oliver Niehuis. 2017. “Transcriptome and Target DNA Enrichment Sequence Data Provide New Insights into the Phylogeny of Vespid Wasps (Hymenoptera: Aculeata: Vespidae).” Molecular Phylogenetics and Evolution 116(August):213–26.
+
+Piekarski, Patrick K., James M. Carpenter, Alan R. Lemmon, Emily Moriarty Lemmon, and Barbara J. Sharanowski. 2018. “Phylogenomic Evidence Overturns Current Conceptions of Social Evolution in Wasps (Vespidae).” Molecular Biology and Evolution 35(9):2097–2109.
