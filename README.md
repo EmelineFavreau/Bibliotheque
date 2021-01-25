@@ -8,7 +8,7 @@ Notes from reading papers
 [eLife](https://elifesciences.org/)  
 [Evolution](https://onlinelibrary.wiley.com/toc/15585646/current)  
 [GBE](https://academic.oup.com/gbe/issue)  
-Genome Biol  
+[Genome Biol](https://genomebiology.biomedcentral.com/articles)  
 Genome Res  
 Heredity  
 Insectes Sociaux  
