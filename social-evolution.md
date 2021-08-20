@@ -16,3 +16,5 @@
 
 ## Phylogeny
 Johnson et al (2013) Phylogenomics Resolves Evolutionary Relationships among Ants, Bees, and Wasps. Current Biology. https://doi.org/10.1016/j.cub.2013.08.050
+
+Perrard, A., Pickett, K., Villemant, C., Kojima, J.I. and Carpenter, J., 2013. Phylogeny of hornets: a total evidence approach (Hymenoptera, Vespidae, Vespinae, Vespa). Journal of Hymenoptera Research, 32, p.1.
