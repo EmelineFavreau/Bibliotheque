@@ -59,3 +59,7 @@ Peters, R.S., Krogmann, L., Mayer, C., Donath, A., Gunkel, S., Meusemann, K., Ko
 Bank, Sarah, Manuela Sann, Christoph Mayer, Karen Meusemann, Alexander Donath, Lars Podsiadlowski, Alexey Kozlov, Malte Petersen, Lars Krogmann, Rudolf Meier, Paolo Rosa, Thomas Schmitt, Mareike Wurdack, Shanlin Liu, Xin Zhou, Bernhard Misof, Ralph S. Peters, and Oliver Niehuis. 2017. “Transcriptome and Target DNA Enrichment Sequence Data Provide New Insights into the Phylogeny of Vespid Wasps (Hymenoptera: Aculeata: Vespidae).” Molecular Phylogenetics and Evolution 116 (August):213–26. https://doi.org/10.1016/j.ympev.2017.08.020
 
 Piekarski, Patrick K., James M. Carpenter, Alan R. Lemmon, Emily Moriarty Lemmon, and Barbara J. Sharanowski. 2018. “Phylogenomic Evidence Overturns Current Conceptions of Social Evolution in Wasps (Vespidae).” Molecular Biology and Evolution 35(9):2097–2109. https://doi.org/10.1093/molbev/msy124
+
+Perrard, Adrien, Kurt Pickett, Claire Villemant, Jun-ichi Kojima, and James Carpenter. "Phylogeny of hornets: a total evidence approach (Hymenoptera, Vespidae, Vespinae, Vespa)." Journal of Hymenoptera Research 32 (2013): 1. doi: 10.3897/jhr.32.4685 
+
+Perrard, Adrien, Federico Lopez‐Osorio, and James M. Carpenter. "Phylogeny, landmark analysis and the use of wing venation to study the evolution of social wasps (Hymenoptera: Vespidae: Vespinae)." Cladistics 32, no. 4 (2016): 406-425. https://doi.org/10.1111/cla.12138
