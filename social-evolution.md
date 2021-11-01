@@ -17,6 +17,8 @@
 ## Phylogeny
 Johnson et al (2013) Phylogenomics Resolves Evolutionary Relationships among Ants, Bees, and Wasps. Current Biology. https://doi.org/10.1016/j.cub.2013.08.050
 
+Peters, Ralph S., Lars Krogmann, Christoph Mayer, Alexander Donath, Simon Gunkel, Karen Meusemann, Alexey Kozlov et al. "Evolutionary history of the Hymenoptera." Current Biology 27, no. 7 (2017): 1013-1018. https://doi.org/10.1016/j.cub.2017.01.027
+
 Perrard, A., Pickett, K., Villemant, C., Kojima, J.I. and Carpenter, J., 2013. Phylogeny of hornets: a total evidence approach (Hymenoptera, Vespidae, Vespinae, Vespa). Journal of Hymenoptera Research, 32, p.1.
 
 Piekarski, P.K., Carpenter, J.M., Lemmon, A.R., Moriarty Lemmon, E. and Sharanowski, B.J., 2018. Phylogenomic evidence overturns current conceptions of social evolution in wasps (Vespidae). Molecular biology and evolution, 35(9), pp.2097-2109.
